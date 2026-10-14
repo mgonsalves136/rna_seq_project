@@ -6,3 +6,4 @@
 --length_required 30
 --qualified_quality_phred 20
 
+module load fastp/0.20.0-gcc-13.2.0
